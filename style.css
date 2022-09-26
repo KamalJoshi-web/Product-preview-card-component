@@ -82,6 +82,10 @@ body{
 .add-to-cart-btn >img{
     margin: 0rem 1rem;
 }
+.add-to-cart-btn:hover{
+    cursor: pointer;
+    background-color: hsl(165, 36%, 37%);
+}
 #mobile{
     display: none;
 }
